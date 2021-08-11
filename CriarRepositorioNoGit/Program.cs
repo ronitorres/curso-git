@@ -11,6 +11,8 @@ namespace CriarRepositorioNoGit {
 
             Console.WriteLine("Terceira linha de texto");
 
+            Console.WriteLine("Quarta linha de texto");
+
         }
     }
 }
