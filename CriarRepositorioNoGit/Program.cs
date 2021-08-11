@@ -9,6 +9,7 @@ namespace CriarRepositorioNoGit {
 
             Console.WriteLine("Aprendendo a gerar versoes");
 
+            Console.WriteLine("Terceira linha de texto");
 
         }
     }
