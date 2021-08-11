@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\CriarRepositorioNoGit\\CriarRepositorioNoGit\\CriarRepositorioNoGit.csproj",
+      "projectUniqueName": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\Criando repositorio Git\\curso-git\\CriarRepositorioNoGit\\CriarRepositorioNoGit.csproj",
       "projectName": "CriarRepositorioNoGit",
-      "projectPath": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\CriarRepositorioNoGit\\CriarRepositorioNoGit\\CriarRepositorioNoGit.csproj",
+      "projectPath": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\Criando repositorio Git\\curso-git\\CriarRepositorioNoGit\\CriarRepositorioNoGit.csproj",
       "packagesPath": "C:\\Users\\Padrão\\.nuget\\packages\\",
-      "outputPath": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\CriarRepositorioNoGit\\CriarRepositorioNoGit\\obj\\",
+      "outputPath": "C:\\programacao\\csharp\\Capitulo8\\Aula98\\Criando repositorio Git\\curso-git\\CriarRepositorioNoGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
