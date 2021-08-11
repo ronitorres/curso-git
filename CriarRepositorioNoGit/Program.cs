@@ -19,7 +19,13 @@ namespace CriarRepositorioNoGit {
 
             Console.WriteLine("Teste para teste caso esquece a mensagem do commit");
 
+            int n = 10;
+            int i = 1;
 
+            while (i < n) {
+
+                Console.WriteLine("I menor que n");
+            }
         }
     }
 }
