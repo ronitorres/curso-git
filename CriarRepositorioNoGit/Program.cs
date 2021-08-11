@@ -15,6 +15,9 @@ namespace CriarRepositorioNoGit {
 
             Console.WriteLine("Quinta linha para testar novo commit");
 
+            Console.WriteLine("Sexta linha para testar novo commit");
+
+
         }
     }
 }
